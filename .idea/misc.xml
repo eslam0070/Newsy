@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0">
+      <entry_point TYPE="field" FQNAME="com.egyeso.newsy.MainActivity adapter" />
+      <entry_point TYPE="field" FQNAME="com.egyeso.newsy.MainActivity Api_KEY" />
+      <entry_point TYPE="field" FQNAME="com.egyeso.newsy.MainActivity articles" />
+      <entry_point TYPE="field" FQNAME="com.egyeso.newsy.MainActivity btnRetry" />
+      <entry_point TYPE="field" FQNAME="com.egyeso.newsy.MainActivity errorImage" />
+      <entry_point TYPE="field" FQNAME="com.egyeso.newsy.MainActivity errorLayout" />
+      <entry_point TYPE="field" FQNAME="com.egyeso.newsy.MainActivity errorMessage" />
+      <entry_point TYPE="field" FQNAME="com.egyeso.newsy.MainActivity errorTitle" />
+      <entry_point TYPE="field" FQNAME="com.egyeso.newsy.MainActivity mInterstitialAd" />
+      <entry_point TYPE="method" FQNAME="com.egyeso.newsy.MainActivity$6 void onClick(android.view.View v)" />
+      <entry_point TYPE="method" FQNAME="com.egyeso.newsy.MainActivity$3 void onFailure(retrofit2.Call&lt;com.egyeso.newsy.models.News&gt; call, java.lang.Throwable t)" />
+      <entry_point TYPE="method" FQNAME="com.egyeso.newsy.MainActivity$4 void onItemClick(android.view.View view, int position)" />
+      <entry_point TYPE="method" FQNAME="com.egyeso.newsy.MainActivity$3 void onResponse(retrofit2.Call&lt;com.egyeso.newsy.models.News&gt; call, retrofit2.Response&lt;com.egyeso.newsy.models.News&gt; response)" />
+      <entry_point TYPE="field" FQNAME="com.egyeso.newsy.MainActivity recyclerView" />
+      <entry_point TYPE="method" FQNAME="com.egyeso.newsy.MainActivity$2 void run()" />
+      <entry_point TYPE="method" FQNAME="com.egyeso.newsy.MainActivity$2$1 void run()" />
+      <entry_point TYPE="method" FQNAME="com.egyeso.newsy.MainActivity$5 void run()" />
+      <entry_point TYPE="field" FQNAME="com.egyeso.newsy.MainActivity service" />
+      <entry_point TYPE="field" FQNAME="com.egyeso.newsy.MainActivity swipeRefreshLayout" />
+    </entry_points>
+    <pattern value="com.egyeso.newsy.ExampleUnitTest" method="addition_isCorrect" />
+    <pattern value="com.egyeso.newsy.models.Articles" />
+    <pattern value="com.egyeso.newsy.ExampleInstrumentedTest" />
+    <pattern value="com.egyeso.newsy.ExampleUnitTest" />
+    <pattern value="com.egyeso.newsy.models.Source" method="getId" />
+    <pattern value="com.egyeso.newsy.models.Source" method="getName" />
+    <pattern value="com.egyeso.newsy.models.News" method="getStatus" />
+    <pattern value="com.egyeso.newsy.models.News" method="getTotalResult" />
+    <pattern value="com.egyeso.newsy.MainActivity" />
+    <pattern value="com.egyeso.newsy.NewsDetailsActivity" />
+    <pattern value="com.egyeso.newsy.models.Source" />
+    <pattern value="com.egyeso.newsy.StartActivity" />
+    <pattern value="com.egyeso.newsy.MainActivity" method="initListener" />
+    <pattern value="com.egyeso.newsy.MainActivity" method="LoadJson" />
+    <pattern value="com.egyeso.newsy.models.News" />
+    <pattern value="com.egyeso.newsy.MainActivity" method="onBackPressed" />
+    <pattern value="com.egyeso.newsy.MainActivity" method="onCreate" />
+    <pattern value="com.egyeso.newsy.MainActivity" method="onDestroy" />
+    <pattern value="com.egyeso.newsy.MainActivity" method="onLoadingSwipeRefresh" />
+    <pattern value="com.egyeso.newsy.MainActivity" method="onPause" />
+    <pattern value="com.egyeso.newsy.MainActivity" method="onRefresh" />
+    <pattern value="com.egyeso.newsy.MainActivity" method="preparAd" />
+    <pattern value="com.egyeso.newsy.models.News" method="setArticles" />
+    <pattern value="com.egyeso.newsy.models.Articles" method="setAuthor" />
+    <pattern value="com.egyeso.newsy.models.Articles" method="setDescription" />
+    <pattern value="com.egyeso.newsy.models.Source" method="setId" />
+    <pattern value="com.egyeso.newsy.models.Source" method="setName" />
+    <pattern value="com.egyeso.newsy.models.Articles" method="setPublishedAt" />
+    <pattern value="com.egyeso.newsy.models.Articles" method="setSource" />
+    <pattern value="com.egyeso.newsy.models.News" method="setStatus" />
+    <pattern value="com.egyeso.newsy.models.Articles" method="setTitle" />
+    <pattern value="com.egyeso.newsy.models.News" method="setTotalResult" />
+    <pattern value="com.egyeso.newsy.models.Articles" method="setUrl" />
+    <pattern value="com.egyeso.newsy.models.Articles" method="setUrlToImage" />
+    <pattern value="com.egyeso.newsy.MainActivity" method="showErrorMessage" />
+    <pattern value="com.egyeso.newsy.ExampleInstrumentedTest" method="useAppContext" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

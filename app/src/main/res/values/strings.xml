@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">أخبار 24 ساعة</string>
+    <string name="top_headliens" translatable="false" tools:keep="@string/top_headliens">Top HeadLiens</string>
+    <string name="author" translatable="false">Author</string>
+    <string name="_01_january_1990" translatable="false">01 January 1990</string>
+    <string name="title" translatable="false">Title</string>
+    <string name="desc" translatable="false">Desc</string>
+    <string name="source" translatable="false">Source</string>
+    <string name="time" translatable="false">Time</string>
+    <string name="search" translatable="false">Search</string>
+    <string name="settings" translatable="false">Settings</string>
+    <string name="news_for_you" translatable="false">News for you</string>
+    <string name="subtitle" translatable="false">Subtitle</string>
+    <string name="a_time_ago" translatable="false">a time ago</string>
+    <string name="title_of_news" translatable="false">Title of News</string>
+    <string name="share">شارك</string>
+    <string name="open_with_browser">فتح باستخدام المتصفح</string>
+    <string name="error_title" translatable="false">Error Title</string>
+    <string name="error_message" translatable="false">Error Message</string>
+    <string name="retry">إعادة المحاولة</string>
+</resources>
